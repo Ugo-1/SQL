@@ -23,10 +23,10 @@
   
   o Last statements pleading for innocence
 
--Finding the min, max and average age at execution
--Number of executions per county
--Number of executions with/without last statement per county
--Year on year change in numbe of executions
+- Finding the min, max and average age at execution
+- Number of executions per county
+- Number of executions with/without last statement per county
+- Year on year change in numbe of executions
 
 ## My process
 
