@@ -35,7 +35,7 @@
 - MSSQL Server
 
 ### Table Meta
--tx_death_row_full
+- tx_death_row_full
 
 ## Author
 - Twitter - [@_EightKing](https://www.twitter.com/_EightKing)
